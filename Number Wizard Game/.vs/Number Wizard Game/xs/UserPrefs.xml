@@ -1,7 +1,7 @@
 ﻿<Properties StartupConfiguration="{3F143820-8294-87ED-2F5C-39B656358C21}|">
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets/NumberWizard.cs">
     <Files>
-      <File FileName="Assets/NumberWizard.cs" Line="40" Column="14" />
+      <File FileName="Assets/NumberWizard.cs" Line="25" Column="40" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -17,7 +17,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="af9cb288-b903-4069-9222-08f2a09b3178" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="13e68355-78b3-4573-a0d0-5cfda0063e09" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
